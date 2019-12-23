@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.homepage     = "http://bugly.qq.com/"
   s.license      = { :type => "Commercial", :text => "Copyright (C) 2017 Tencent Bugly, Inc. All rights reserved."}
   s.author       = { "Tencent" => "bugly@tencent.com" }
-  s.source       = { :http => "http://softfile.3g.qq.com/myapp/buglysdk/Bugly-2.5.2.zip" }
+  s.source       = { :http => "https://github.com/Dx-zuo/Bugly-iOS/raw/0eaf2bbd518db14c8936e82ec63b2d154d6cb8bf/release/Bugly-2.5.0.zip" }
   s.requires_arc = true  
   s.platform     = :ios
   s.ios.deployment_target = '7.0'
